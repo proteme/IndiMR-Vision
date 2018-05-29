@@ -1,0 +1,3 @@
+## Increased Costs to People and Organizations {#increased-costs-to-people-and-organizations}
+
+As mentioned in the previous two points, unavailability of data and lack of interoperability standards increases the cost of care significantly. This is due to the tests or treatments being repeated as the reports from previous healthcare episodes are not available. Lack of data also leads to less efficient workflows for hospitals, adding to the costs to the patients and the organizations.

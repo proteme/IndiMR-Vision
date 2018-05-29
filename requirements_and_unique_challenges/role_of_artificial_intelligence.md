@@ -1,0 +1,3 @@
+## Role of Artificial Intelligence {#role-of-artificial-intelligence}
+
+A system designed _ab initio_ with the awareness of a rapidly developing field of AI, can keep the tasks that require intelligent inferencing separate from the routine healthcare workflows. Initially, such decisions can be tasked to experts, but later, this will allow plugging in the best AI solutions as they become available to reduce human expertise dependence.

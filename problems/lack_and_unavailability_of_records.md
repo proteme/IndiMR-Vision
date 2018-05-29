@@ -1,0 +1,5 @@
+## Lack and Unavailability of records {#lack-and-unavailability-of-records}
+
+It is common in India for a patient to arrive at a doctor’s doorstep with no medical records from their past. Either the record is kept in a paper-based system with other providers, or no record is kept at all. Patient may only be vaguely aware of the diagnoses, and often has no idea of the drugs prescribed in the past. Consequently, not just the quality of care suffers, the costs go up significantly too.
+
+A record of healthcare over a period is critical for patients with chronic health problems, especially the non-communicable diseases (NCDs), the burden of which has assumed alarming proportions. It is estimated that NCDs constitute one-third of all conditions encountered (IHDS 2015). This burden is expected to increase considerably as a larger proportion of the population is expected to live longer, and as the incidence of communicable diseases continues to fall.

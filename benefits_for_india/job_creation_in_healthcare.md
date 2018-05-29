@@ -1,0 +1,3 @@
+## Job Creation in Healthcare {#job-creation-in-healthcare}
+
+As India’s GDP improves, more and more people will be seeking better healthcare. A solution like a universal healthcare record system will facilitate taking better quality healthcare to remote parts of the country. This will require many semi-professional health workers to work as intermediaries between the doctors in health centers and the patients in remote areas, which will be managed by the doctors through NEMRS. So, even though NEMRS will likely reduce the need for hiring more doctors, it will increase the number of jobs at other levels in healthcare.

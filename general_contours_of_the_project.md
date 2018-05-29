@@ -1,0 +1,15 @@
+# General Contours of the Project {#general-contours-of-the-project}
+
+The overarching goal the Indian National EMR project should be to create an ecosystem that has its own momentum allowing players of different types to jump in and start contributing to real solutions, without too many impediments.
+
+The project should avoid the traps that large projects often fall into, such as trying to achieve a grand vision guided by only thought leaders and developed by a central team of developers.
+
+Only the core, a framework, standards and guiding principles should be defined, leaving it to other contributors to come up with innovative features that meet their needs, or to fulfill their specific vision. The standards should include the APIs for components and extensions. Developers should then be encouraged to create multiple small open source projects each creating a different component for the EMR, compliant with the standards, making them deployable within the framework. Commercial vendors can pitch in with their own contributions to the open source components or create their own specialized standards-compatible versions.
+
+Later, full EMRs could be created by the developers by picking components that best suit their needs and assembling them into customized systems. The developers could also make available several archetypal preassembled systems, which meet the needs of most doctors, hospitals and other healthcare organizations, to save the organizations the trouble of configuring a system, on their own.
+
+Government should take the lead in funding such projects and give incentives to the private companies for contributing to their success. The government should also facilitate creating groups of thought leaders and champion users to specify requirements specific to their needs, and the needs of the country. It should create mechanisms for interaction between them and with the developers. An active participation from the medical community is a must for the success of this project.
+
+An expert group should be formed at the launch of the project, comprising of developers and the domain experts, and task them with coming up with, requirements for the system, standards, the characteristics of the core module, and guiding principles for project management and software development. As the first deliverable, the develops should create a framework application that serves as a scaffolding for the full system. Subsequent development would be guided by these efforts.
+
+This approach will not only bolster the open source culture in India, it will lead to formation of an entire ecosystem, with companies joining in, at different levels. Some companies could take a lead in development of components and extensions, while others could be implementers who offer their services to different healthcare organizations. Even others could provide secondary data use support to policy makers and researchers.

@@ -1,0 +1,13 @@
+## Lack of Medical Facilities and Expertise {#lack-of-medical-facilities-and-expertise}
+
+The network of government provided healthcare facilities in India though massive, remains insufficient for the size of its population. The deficiency is appalling for many rural and remote areas.
+
+Currently, India’s healthcare network includes over 1.55 lakh health sub-centers, 25,000 primary healthcare centers, 5,500 community health centers, 1,000 sub-divisional hospitals and 773 district hospitals. This is supplemented by thousands of private facilities and hundreds of private and government medical college based hospitals. Yet it is estimated that there is **a deficiency of nearly 6 lakh doctors, 35,000 sub-centers, 6,500 PHCs, and 2,200, CHCs**. Despite the recent increase in number of students graduating from MBBS colleges, only 11.3% of such doctors work in the rural sector.
+
+Not only are the government health facilities plagued with gross lack of trained doctors, much of supportive health workforce is made up of semi-literate, poorly trained personnel. The workers’ performance is not fully tracked, since much of their work occurs at homes of the villagers and in the communities, away from the supervision normally available in health centers. Government health facilities do not have systems to track the activities of workers away from centers. As a result, absenteeism and poor performance is rampant.
+
+Since the doctors working in rural areas do not have access to a peer circle and knowledge resources, their motivation to keep up with the advances, to improve their diagnostic acuity and patient management skills erode over time.
+
+A sound ICT-based solution could help by allowing adequate utilization of the workforce, and cover for the deficiencies by allowing doctors to efficiently supervise the workforce, or to support each other’s work, even remotely, resulting in distribution of workload, without having to employ more people. EHRs that have clinical guidelines and clinical decision support systems embedded in them can play an important role in patient care and in training of the workforce.
+
+It has been suggested that other healthcare personnel and practitioners of **AYUSH** (Ayurveda, Yoga, Unani, Siddha, and Homeopathy) schools of medicine could be trained with enough modern medicine skills to bridge the gap. Some states have even implemented such training programs. With executable decision support based guidelines linked with NEMRS, the AYUSH practitioners can be expected to be better equipped to treat potentially dangerous conditions.

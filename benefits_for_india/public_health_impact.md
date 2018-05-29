@@ -1,0 +1,11 @@
+## Public Health Impact {#public-health-impact}
+
+Public health departments will be able initiate rapid interventions based on the signals being received automatically from the data being entered by the clinicians in the EMR system, even as they take care of their patients. For example, if multiple clinics in a locality start seeing patients with symptoms suggestive of a contagious disease, the authorities could jump into action to prevent its spread across the country. A potential epidemic would be detected, and a wider hazard would be averted.
+
+Data-based methods has proven to be an effective tool to detect “hotspots” – areas that are prone to develop chronic health-related problems. An EMR system linked with other sources will allow it to identify such hotspots and alert the clinicians and government health officials to be on guard for diseases that are prevalent in them. This will be an example of Big Data technology being used for public, as well as individual welfare. The hotspot approach can also be extended to identify foci of addictions and substance abuse, and possibly localities where such substances are being sold.
+
+A good EMR system can serve as a glue between Public Healthcare Systems and Curative Primary Care Systems, making the two seamless. Much of the healthcare sector’s emphasis has, until now, been on curative care, which is more expensive for the patients as well as for the nation, in terms of productivity. With the use of NEMRS, a preventive approach will gain precedence.
+
+The NEMRS can also have the capability of patient outreach. With the patient record allowing individual-specific reminders about vaccination, prenatal care visits, nutrition etc., being directly sent to their mobile phones. This will encourage the people to not just participate in their own care, but also their wellness. NEMRS can also be the conduit for conditional cash transfers for patients who suffer from diseases such as tuberculosis, which are a public health risks, but depend on diligence on the patient’s part for successful cures.
+
+The data from many localities being available in a uniform format will also be useful in making policies about health and general welfare of the people.

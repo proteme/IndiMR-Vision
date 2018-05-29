@@ -1,0 +1,5 @@
+## mHealth Centric {#mhealth-centric}
+
+The amazing spread of mobile telephony in India, with nearly 80% web traffic being consumed by mobile devices has opened many wonderful opportunities for India, including in health. Therefore, it makes immense sense to build a current day EMR to be mHealth (mobile health) centric. A mHealth based EMR would not only leapfrog the enterprise EMR systems, it would also avoid a pure web-based approach, focusing more on the smaller devices for its frontend.
+
+A recent report by PwC and the Confederation of Indian Industries (CII) states that mHealth can be crucial in making healthcare accessible in India and potentially save up to $1b annually. Not only are mHealth solutions ideal for India, there is a high level of interest in Indians for such solutions, as gleaned from internet searches by them, the report further states.

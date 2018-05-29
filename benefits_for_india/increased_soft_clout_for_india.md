@@ -1,0 +1,3 @@
+## Increased Soft Clout for India {#increased-soft-clout-for-india}
+
+Finally, since the development of the National EMR will be an open source project, it will be used by healthcare organizations and personnel in many developing countries, which will aid in improving India’s image and soft clout internationally. The developing nations will be especially grateful for such gift. Such an EMR would be something that even a large developed nation like the US will be inclined to adopt, if done well.

@@ -1,0 +1,5 @@
+## Health and Healthcare Policy Research {#health-and-healthcare-policy-research}
+
+A shared data system will provide biomedical researchers access to a rich trove of data, allowing them to make significant discoveries. This acquires special significance as more and more genomic data (and data from other -omics) become a part of standard medical care. For Indian researchers to make a mark in this field, and to be able to create datasets that are more relevant to Indian communities, access to a large pool of data is of paramount importance.
+
+It is conceivable that policy experimentation will also get a boost with availability of a health information infrastructure. For example, a study could aim at finding comparative cost and benefits of healthcare provided with or without insurance companies as intermediaries. Reliable data available through NEMRS, will make it possible to undertake many such studies.

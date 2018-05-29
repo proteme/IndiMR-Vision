@@ -1,0 +1,3 @@
+## Funding for Pilot Project {#funding-for-pilot-project}
+
+Approximately 45 crores to cover a project to develop and deploy the prototype NEMRS to 30 PHCs, with at least 3 CHCs, including all the PHCs in their jurisdiction, in the primary sites. The funding would cover hiring of software developers, and other experts, and software and hardware tools, and the miscellaneous expenses, including travel. The project will deliver a fully working system within 18 months.

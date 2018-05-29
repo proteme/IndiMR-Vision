@@ -1,0 +1,3 @@
+## Boon for Private Sector {#boon-for-private-sector}
+
+Private sector can start building specialized applications, features/components or provide fully assembled EMRs customized for the needs of individual provider organizations. Examples of innovative features include using Big Data and Machine Learning technologies to predict outbreaks, detecting hot spots, and determining efficacy of traditional medicine remedies and unconventional approaches. There are many potential ideas waiting to be tapped for budding entrepreneurs in the field, and the project would give rise to many startups and an era of Smart health app development.

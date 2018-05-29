@@ -1,0 +1,5 @@
+## Blockchain Based {#blockchain-based}
+
+The advent of Blockchain related technologies have provided a new modality of creating medical records for each patient that are longitudinal, spanning their entire life’s medical history and yet owned by the patient, with minimal risk of tampering or misuse. This will allow continuity of records, with minimal duplication of tests, or treatments. Any authenticated healthcare personnel will be able to access the past records of the patients, and so would other organizations like insurance companies and research institutions. Tools would be created to allow patient to permit accessing their data, circumscribed by a duration, or a healthcare episode.
+
+Each encounter with a healthcare facility could then be recorded as a block in the chain, verified by the patients, other experts, or authorities and validated by peers. The chain itself would serve as the index, with the details of the encounters being stored in the cloud serving as the backend for the NEMRS.

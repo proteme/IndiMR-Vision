@@ -1,0 +1,7 @@
+## Poor Spread of Health Insurance {#poor-spread-of-health-insurance}
+
+The maturation of insurance market in any economy is dependent upon availability of large amount of data. In India health insurance industry, among other things, is hobbled with the lack of such data. The insurance companies do not feel confident to pursue this segment aggressively because they are not sure of the market size, its needs, distribution and their economic status.
+
+Even as government-provided insurance has spread, many are unable to take full advantage of it due to unawareness of the schemes, unfamiliarity with the procedures for claims, and delays in reimbursement. Experience with the existing schemes introduced in different states have revealed similar problems, including frauds, incomplete or erratic documentation and delayed reimbursements. It is reported that the existing schemes do not provide any significant financial protection for those covered. Private hospitals commonly refuse to treat patients at the because government mandated rates are not based on market realities, which is a result of rates being set with insufficient data. Inefficiencies and errors in different processes related to insurance also have consequences beyond simple delays and financial stress to the participants, the delays lead to increased hospital stays and risk of nosocomial infections.
+
+Most of the insurance related processes, such as pre-authorization, verification of identities, validation of cases, and reimbursement to the doctors can be automated.

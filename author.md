@@ -1,0 +1,13 @@
+# Author {#author}
+
+Hemant Shah trained and worked as an Obstetrician and Gynecologist in India, with his chief interests being high risk pregnancies and operative gynecology. While working as an OBGYN physician, he co-founded and was the Executive Director and CTO of a medical informatics company in India. He led the development of several web-based applications for physicians in this role. He also developed an advanced Prenatal Record System to help clinicians better manage their patients.
+
+He is the author of the Proteus model ([http://www.proteme.org](http://www.proteme.org/)) for automated clinical decision support guidelines. Proteus (**PRO**cesses and **T**ransactions **E**ditable by **US**ers) is a model that allows creation of clinical guidelines with modular knowledge components. Each knowledge component represents a clinically identifiable activity and is available to the clinician as executable knowledge. He also leads an open source project to develop software tools based on Proteus.
+
+In 2000, he joined the Lister Hill Center at National Library of Medicine in Bethesda, Maryland, as a Medical Informatics Research Fellow. 2003-2007, he served as Information Scientist at City of Hope National Medical Center (COH). From 2007 to 2017, he worked at Henry Ford Health System (HFHS) as Senior Research Informatician, where he led the project to develop a fully integrated clinical decision support for HFHS&#039;s EHR system, within the [Semantic Data Capture Initiative](http://proteme.org/blog/sdci/) project. This system achieved high level of user acceptance while meeting all its technical and research goals and was completed within time and budget.
+
+His special interests in Medical Informatics are technologies, and tools that directly impact clinician’s performance, particularly Clinical Decision Support Systems, Clinical Information Systems and semantic interoperability for clinical systems. He specializes in metadata and ontologies and has led the Metadata project for the caBIG CTMS workspace at COH, as well as contributed to the vocabulary and metadata needs of several projects.
+
+He possesses the range of skills required to create prototype systems, including research, conceptualizing, modeling in UML and writing of programming code, deployment and testing of tools. He is well versed with standards like HL7, ISO/IEC 11179 and controlled medical vocabularies.
+
+He is a certified **Epic EMR** expert and has the technological know-how to manage its Ambulatory system, as well to create and integrate new solutions with one of the world’s most successful EMR system – Epic

@@ -1,0 +1,3 @@
+# Requirements and Unique Challenges {#requirements-and-unique-challenges}
+
+There is a large body of literature available that lists requirements that are a “must-have” for EMRs, and those that are desirable, even if not necessary. This can be the starting point for the National EMR project. Many requirements for the NEMRS will be universal, common across nations belonging to different economic categories. However, some of the requirements and constraints for India (and other developing countries) are unique, for instance, lack of bandwidth and connectivity and poor literacy, or lack of ability to use English, and that different regions have proficiency in different languages.

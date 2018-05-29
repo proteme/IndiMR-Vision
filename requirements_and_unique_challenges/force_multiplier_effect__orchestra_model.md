@@ -1,0 +1,7 @@
+## Force Multiplier Effect – Orchestra Model {#force-multiplier-effect-orchestra-model}
+
+Given the deficiency in healthcare manpower, especially the doctors, in many regions, one of the goals of the NEMRS should be to facilitate maximizing the performance of its doctors.
+
+This can be achieved by doctors lending their expertise to other personnel (such as AYUSH practitioners and community health workers) via computer executable guidelines that they author. To allow this kind of collaboration between physicians and other workers, NEMRS will need to be developed as a knowledge-based system capable of running editable and executable guidelines. The non-physician personnel could take care of the patients, even in locations away from the doctors, and enter the data on their hand-held devices. Doctors would be able to step in at any stage, if on looking at the data in NEMRS they realize that a patient requires higher level of expertise. The workers in the field could also request intervention of the doctors, with the data they have collected at the location being automatically available to the remote doctor from within the NEMRS.
+
+Such an approach would make it possible for a single doctor to provide expert support to multiple field workers and other health workers, managing them like a conductor would lead an orchestra.
