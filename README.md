@@ -10,5 +10,7 @@ description: Introduction
 
 **In the following pages, we, a group of researchers and professionals, explain why?**
 
+Not only do we make the case for the National Medical Record System \(NEMRS\), we propose, how it can be done? And, how it can be done cheaply?
+
 
 
