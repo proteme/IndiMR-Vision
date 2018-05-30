@@ -1,6 +1,6 @@
 # What Do We Propose?
 
- \[[Go Back to the Main IndiMR Site](http://indimr.org/)\]
+ \[[Go to the main IndiMR Site](http://indimr.org/)\]
 
 To fulfill its pledge of “Sab ka Saath, Sab ka Vikas” \(Together, Progress for All\), the Prime Minster Modi’s government is actively pursuing many measures to bring tangible benefits to the people. Several bold reforms in different areas are a testimony to the government’s commitment to this goal. In all its efforts, GoI has been keen to maximize the impact by use of Information Technology. However, the government is yet to adopt IT at a scale that matches its vision and ambition for healthcare.
 
